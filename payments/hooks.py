@@ -4,7 +4,7 @@ app_name = "payments"
 app_title = "Payments"
 app_publisher = "Frappe Technologies"
 app_description = "Payments app for frappe"
-app_email = "hello@frappe.io"
+app_email = "connect@peunier.com"
 app_license = "MIT"
 
 # Includes in <head>
